@@ -22,6 +22,9 @@ h2{
     width: 84%;
 margin-top: 2%;
 }
+.option-lists ul li:hover{
+    background-color: blue;
+}
 .body-header{
     padding: 10px;
 }
@@ -65,6 +68,15 @@ margin-top: 2%;
     background-color: turquoise;
     margin-top: 10px;
     text-align: center;
+}
+.part1:hover{
+    background-color: blue;
+}
+.part2:hover{
+    background-color: blue;
+}
+.part3:hover{
+background-color: blue;
 }
 @media only screen and (min-width: 768px) {
     .page-wrapper{
@@ -132,6 +144,7 @@ margin-top: 2%;
         margin-top: 10px;
         text-align: center;
     }
+    
 }
 @media only screen and (min-width: 1200px) {
     .page-wrapper{
@@ -200,4 +213,4 @@ margin-top: 2%;
         margin-top: 10px;
         text-align: center;
     }
-}
+
