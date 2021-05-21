@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+}
+.page-wrapper{
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.top-header{
+    width: 100%;
+    padding: 15px 0PX;
+    background-color: blueviolet;
+    color: white;
+    margin: auto;
+}
+h2{
+    margin-left: 30px;
+}
+.option-lists ul li{
+    display: table;
+    padding: 5px;
+    background-color: turquoise;
+    width: 84%;
+margin-top: 2%;
+}
+.body-header{
+    padding: 10px;
+}
+.paragraph{margin-top: 10px;
+    margin-left: 30px;
+
+}
+
+.QA-Wrapper{
+    background-color: turquoise;
+    width: 97%;
+    margin: auto;
+}
+.part1{
+    background-color: turquoise;
+    text-align: center;
+}
+.part1-discription{
+    padding: 10px 10px;
+}
+.part2{
+    background-color: turquoise;
+    text-align: center;
+}
+.part2-discription{
+    padding: 10px 10px;
+}
+.part3{
+    background-color: turquoise;
+    text-align: center;
+}
+.part3-discription{
+    padding: 10px 10px;
+}
+.footer-wrapper{
+    width: 97%;
+    margin: auto;
+}
+.footer{
+    padding: 10px;
+    background-color: turquoise;
+    margin-top: 10px;
+    text-align: center;
+}
+@media only screen and (min-width: 768px) {
+    .page-wrapper{
+        width: 100%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .top-header{
+        width: 97%;
+        padding: 15px 0PX;
+        background-color: blueviolet;
+        color: white;
+        margin: auto;
+    }
+    h2{
+        margin-left: 30px;
+    }
+    .option-lists ul li{
+        display: table;
+        padding: 5px;
+        background-color: turquoise;
+        width: 84%;
+    margin-top: 2%;
+    }
+    .body-header{
+        padding: 10px;
+    }
+    .paragraph{margin-top: 10px;
+        margin-left: 30px;
+    
+    }
+    
+    .QA-Wrapper{
+        background-color: turquoise;
+        width: 97%;
+        margin: auto;
+    }
+    .part1{
+        background-color: turquoise;
+        text-align: center;
+    }
+    .part1-discription{
+        padding: 10px 10px;
+    }
+    .part2{
+        background-color: turquoise;
+        text-align: center;
+    }
+    .part2-discription{
+        padding: 10px 10px;
+    }
+    .part3{
+        background-color: turquoise;
+        text-align: center;
+    }
+    .part3-discription{
+        padding: 10px 10px;
+    }
+    .footer-wrapper{
+        width: 97%;
+        margin: auto;
+    }
+    .footer{
+        padding: 10px;
+        background-color: turquoise;
+        margin-top: 10px;
+        text-align: center;
+    }
+}
+@media only screen and (min-width: 1200px) {
+    .page-wrapper{
+        width: 100%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .top-header{
+        width: 100%;
+        padding: 15px 0PX;
+        background-color: blueviolet;
+        color: white;
+        margin: auto;
+    }
+  .option-lists ul li{
+        display: table;
+        padding: 5px;
+        background-color: turquoise;
+        width: 15%;
+    }
+    .body-header{
+        padding: 10px;
+        border: 1px solid black;
+        width: 30%;
+        margin: -190px 0px 90px 260px;
+    }
+    .paragraph{
+        margin-top: 10px;
+    
+    }
+    
+    .QA-Wrapper{
+        background-color: turquoise;
+        width: 40%;
+        float: right;
+        margin-top: -210px;
+        margin-right: 10px;
+    }
+    .part1{
+        background-color: turquoise;
+        text-align: center;
+    }
+    .part1-discription{
+        padding: 10px 10px;
+    }
+    .part2{
+        background-color: turquoise;
+        text-align: center;
+    }
+    .part2-discription{
+        padding: 10px 10px;
+    }
+    .part3{
+        background-color: turquoise;
+        text-align: center;
+    }
+    .part3-discription{
+        padding: 10px 10px;
+    }
+    .footer-wrapper{
+        width: 97%;
+        margin-top: 100px;
+    }
+    .footer{
+        padding: 10px;
+        background-color: turquoise;
+        margin-top: 10px;
+        text-align: center;
+    }
+}
